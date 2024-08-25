@@ -16,5 +16,9 @@ All features:
 - API (Info)
  
 ## Installation
-1. **Purchase for 4 pounds (Monthly)**
+1. **Purchase for 10 pounds (Monthly)**
 2. Automatic setup!
+
+
+
+# README By (Astrixx)[https://github.com/KushiKreates/Astrixx/blob/main/README.md]
