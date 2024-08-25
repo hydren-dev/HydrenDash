@@ -1,6 +1,6 @@
 # HydrenDashboard
 
-![HydrenDash](https://raw.githubusercontent.com/hydren-dev/HydrenDash/main/image.png)
+![HydrenDash](https://i.imgur.com/8HoWi3E.png)
 
 Welcome to the Hydren Game Panel, your ultimate hub for managing game servers with ease and efficiency. This panel is built on the Skyport platform and provides a sleek and user-friendly interface for all your server management needs.
 
