@@ -16,7 +16,7 @@ All features:
 - API (Info)
  
 ## Installation
-1. **Purchase for 10 pounds (Monthly)**
+1. **Purchase for 4 $ (Lifetime)**
 2. Automatic setup!
 
 
